@@ -8,6 +8,7 @@ This project is developed by using jdbc, servlets, jsp, bootstrap and mysql data
 </ul>
 <h3 align="center">Screenshots</h3>
 <hr>
+<div align="center">
 <img src="ViewTodos.png" alt="viewtodos" width="70%">
 <br>
 <img src="AddTodo.png" alt="addtodo" width="70%">
@@ -15,4 +16,5 @@ This project is developed by using jdbc, servlets, jsp, bootstrap and mysql data
 <img src="EditTodo.png" alt="updatetodo" width="70%">
 <br>
 <img src="RemoveTodo.png" alt="removetodo" width="70%">
+</div>
 
